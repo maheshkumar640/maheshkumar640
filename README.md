@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-362a70201/)
-- 🔭 I just launched my first project: [iNotebook - Your notes on the cloud][https://myinotebook.herokuapp.com/]!
+<!-- - 🔭 I just launched my first project: [iNotebook - Your notes on the cloud][https://myinotebook.herokuapp.com/]! -->
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to play pc games a lot !
   <br />
