@@ -14,7 +14,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-362a70201/)
-<!-- - 🔭 I just launched my first project: [iNotebook - Your notes on the cloud][https://myinotebook.herokuapp.com/]! -->
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to play pc games a lot !
   <br />
@@ -45,18 +44,21 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=nishant3721&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nishant Singh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant3721&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nishant Singh" /></td>
+  </tr>
+</table>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" alt="Nishant Singh" /></p>
+  </div>
+  
+<br>
 
-<!-- ## 🥇Top Projects(Open for Contributions)<br>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ron2111) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/ron2111)
-| Project📃 | Stars🌟 | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |
-|-------------|-------------------|---|---|---|---|
-| [**Awesome Projects Collection**](https://github.com/ron2111/Awesome-Projects-Collection) | [![GitHub Stars](https://img.shields.io/github/stars/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/stars) | [![GitHub Forks](https://img.shields.io/github/forks/ron2111/Awesome-Projects-Collection?style=flat-square&labelColor=343b41)](https://github.com/ron2111/Awesome-Projects-Collection/forks) | [![GitHub Issues](https://img.shields.io/github/issues/ron2111/Awesome-Projects-Collection?style=flat-square)](https://github.com/ron2111/Awesome-Projects-Collection/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/ron2111/Awesome-Projects-Collection?style=flat&logo=github)](https://github.com/ron2111/Awesome-Projects-Collection/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/ron2111/Awesome-Projects-Collection?style=flat&color=critical&logo=github)](https://github.com/ron2111/Awesome-Projects-Collection/pulls?q=is%3Apr+is%3Aclosed) |
-
-<div align="center"> -->
+<img alt="Nishant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishant3721&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br>
 
