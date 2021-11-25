@@ -47,18 +47,18 @@
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=maheshkumar640&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mahesh Singh" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshkumar640&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mahesh Singh" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=nishant3721&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nishant Singh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant3721&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mahesh Singh" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkumar640&theme=dark" alt="Mahesh Singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" alt="Nishant Singh" /></p>
   </div>
   
 <br>
 
-<img alt="Mahesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maheshkumar640&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Nishant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishant3721&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br>
 
@@ -66,9 +66,9 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mahesh-kumar-311425197/)
-<!-- [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nishantsingh3721/) -->
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100010131062324)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nishant-singh-362a70201/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nishantsingh3721/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100048807066065)
 [<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/srnikhil3721)
 
 </div>
